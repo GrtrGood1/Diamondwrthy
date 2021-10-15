@@ -1,7 +1,7 @@
 # special-telegram
 
 <DOCTYPE! HTML>
-<H1>A Simple Project<\H1>
+<H1>A Simple Project</H1>
 <BODY>
  <!-- border="1px solid black;" --/>
 <table>
