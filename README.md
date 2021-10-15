@@ -1,8 +1,8 @@
 # special-telegram
 
-<DOCTYPE! HTML>
-<H1>A Simple Project</H1>
-<BODY>
+<!DOCTYPE html>
+<h1>A Simple Project</h1>
+<body>
  <!-- border="1px solid black;" --/>
 <table>
  <th>
@@ -14,5 +14,5 @@
      <td>Hello World</td>
    </tr>
 </table>
-</BODY>
-</HTML>
+</body>
+</html>
